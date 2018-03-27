@@ -2,7 +2,7 @@ library(tidyverse)
 library(readr)
 
 #Crear carpeta para almacenar data de FFMM en csv
-if(!dir.exists("~/R_wd//FFMM/Archivos")) dir.create("~/R_wd/FFMM/Archivos")
+if(!dir.exists("~/R_wd/FFMM/Archivos")) dir.create("~/R_wd/FFMM/Archivos")
 
 #Crear dataset vacío 
 dataset <- data.frame(FondoMutuo = character(),
