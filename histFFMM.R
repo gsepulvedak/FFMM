@@ -6,7 +6,7 @@ library(lubridate)
 
 #Definir intervalo de tiempo a procesar
 start <- ymd(20100101)
-end <- today()
+end <- today()-1
 days <- time_length(interval(start, end), unit = "day")
 url_date <- start+0:days
 
