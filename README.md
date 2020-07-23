@@ -3,7 +3,7 @@
 This was originally a personal project for analysis of financial data. I is not finished yet, the most interesting part (analysis/prediction) is still missing. I'll try to come back to this if I can find time for it.
 This readme file and also the code files were originally written in Spanish language. Code files are not translated, nor git commits.
 
-## Repo objectives ##
+## Objectives ##
 
 * To build a dataset with mutual funds information from Santander Asset Management investments.
 * Analyse historic data regarding mutual funds as investment vehicle (from 2010).
